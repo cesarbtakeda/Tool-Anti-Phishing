@@ -16,8 +16,20 @@
 - Socks4
 - Socks5
 
+#
   
-![image](https://github.com/user-attachments/assets/2c55c1ee-1e0d-4bb8-9f83-6089dce40467)
+ - ![image](https://github.com/user-attachments/assets/2c55c1ee-1e0d-4bb8-9f83-6089dce40467)
+ - #
+- ![image](https://github.com/user-attachments/assets/d7d0e122-bed9-44ac-bdd1-d8503a5304a7)
+- #
+ - ![image](https://github.com/user-attachments/assets/f70a07df-928b-4d36-8de9-a98b942bb84f)
+- #
+- ![image](https://github.com/user-attachments/assets/3eca3efe-6e37-4c50-87e3-096ea38b1994)
+
+
+
+#
+
 
 
 ## 🔐 LEGAL NOTICE
